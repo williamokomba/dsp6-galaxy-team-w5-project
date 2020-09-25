@@ -4,7 +4,7 @@
 
 # dsp6-galaxy-team-w5-project
 
-The project is to identify the highly and sparsely populated county to enable the government roll out projects.
+The project is to identify the highly and sparsely populated county to enable the government decide on where to roll out projects.
 
 ## contributers
 -William okomba <willokomba@gmail.com>
